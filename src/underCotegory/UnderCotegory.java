@@ -37,4 +37,13 @@ public class UnderCotegory {
 
     public UnderCotegory() {
     }
+
+    @Override
+    public String toString() {
+        return "UnderCotegory{" +
+                "brand='" + brand + '\'' +
+                ", model='" + model + '\'' +
+                ", color='" + color + '\'' +
+                '}';
+    }
 }

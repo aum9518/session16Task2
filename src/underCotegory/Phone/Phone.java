@@ -44,4 +44,12 @@ public class Phone extends UnderCotegory {
     public String caliing1(){
         return "calling ";
     }
+
+    @Override
+    public String toString() {
+        return "Phone{" +
+                "memory='" + memory + '\'' +
+                ", yearofMade=" + yearofMade +
+                '}';
+    }
 }

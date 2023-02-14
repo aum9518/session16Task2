@@ -1,3 +1,4 @@
+import underCotegory.Computer.Computer;
 import underCotegory.Computer.Lenovo;
 import underCotegory.Computer.Mac;
 import underCotegory.Phone.Iphone;
@@ -22,6 +23,13 @@ public class Main {
         for (UnderCotegory a:all) {
             System.out.println("Brand: "+a.getBrand()+"\nModel: "+a.getModel()+"\nColor: "+a.getColor()+"\n");
         }
+        System.out.println(lenovo);
+        System.out.println(mac);
+        System.out.println(iphon);
+        System.out.println(samsung);
+        System.out.println(appleWatch);
+        System.out.println(miBand);
+
 
     }
 }

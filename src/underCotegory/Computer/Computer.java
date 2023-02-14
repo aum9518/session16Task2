@@ -45,4 +45,12 @@ public class Computer extends UnderCotegory {
     public String turnOff(){
         return "Turn off";
     }
+
+    @Override
+    public String toString() {
+        return "Computer{" +
+                "displayDioganal='" + displayDioganal + '\'' +
+                ", ram='" + ram + '\'' +
+                '}';
+    }
 }

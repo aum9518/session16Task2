@@ -44,4 +44,12 @@ public class SmartWatch extends UnderCotegory {
     public String get(){
         return "getting...";
     }
+
+    @Override
+    public String toString() {
+        return "SmartWatch{" +
+                "battery='" + battery + '\'' +
+                ", version=" + version +
+                '}';
+    }
 }
