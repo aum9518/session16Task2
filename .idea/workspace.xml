@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae2229c1-4706-4e83-bd7a-6f7594c011cc" name="Changes" comment="add fill field">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/underCotegory/Computer/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/underCotegory/Computer/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/underCotegory/Phone/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/underCotegory/Phone/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/underCotegory/SmartWatch/SmartWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/underCotegory/SmartWatch/SmartWatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/underCotegory/UnderCotegory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/underCotegory/UnderCotegory.java" afterDir="false" />
+    <list default="true" id="ae2229c1-4706-4e83-bd7a-6f7594c011cc" name="Changes" comment="add toString and print all to consol">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,13 +81,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676356303022</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add toString and print all to consol">
+      <created>1676357275987</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676357275988</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add Class and Package" />
     <MESSAGE value="add field and mathods" />
     <MESSAGE value="add fill field" />
-    <option name="LAST_COMMIT_MESSAGE" value="add fill field" />
+    <MESSAGE value="add toString and print all to consol" />
+    <option name="LAST_COMMIT_MESSAGE" value="add toString and print all to consol" />
   </component>
 </project>
